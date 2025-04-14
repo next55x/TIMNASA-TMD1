@@ -1,7 +1,7 @@
 
 var tabCmds = [];
 let cm = [];
-function timomth(obj, fonctions) {
+function timoth(obj, fonctions) {
     let infoComs = obj;
     if (!obj.categorie) {
         infoComs.categorie = "General";
