@@ -1,10 +1,10 @@
 const {
-  ezra
-} = require("./../fredi/ezra");
+  timoth
+} = require("./../timnasa/timoth");
 const {
   format,
   runtime
-} = require('../fredi/mesfonctions');
+} = require('../timnasa/mesfonctions');
 const os = require('os');
 const speed = require('performance-now');
 const {
@@ -12,9 +12,9 @@ const {
 } = require('perf_hooks');
 const conf = require('../set');
 
-ezra(
+timnasa(
   {
-    nomCom: 'ping1',
+    nomCom: 'ping',
     categorie: 'General',
     reaction: '🚀',
     alias: ['p']
@@ -44,7 +44,7 @@ ezra(
   }
 )
 
-ezra(
+timoth(
   {
     nomCom: 'desc',
     reaction: 'ℹ',
@@ -121,9 +121,9 @@ _CPU Core(s) Usage (${cpus.length} Core CPU)_
   }
 );
 
-ezra(
+timoth(
   {
-    nomCom: 'runtime',
+    nomCom: 'uptime',
     reaction: '🚨',
     alias: ['uptime']
   },
