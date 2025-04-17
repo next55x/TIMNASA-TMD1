@@ -45,7 +45,7 @@ Click below to generate your session ID instantly.
 <details>
   <summary>📂 CLICK TO DOWNLOAD & DEPLOY</summary>
 
-  <a href="https://github.com/Fred1e/T-test/archive/refs/heads/main.zip">
+  <a href="https://github.com/next55x/TIMNASA-TMD1/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20FILES-purple?style=for-the-badge" width="200">
   </a>
   
@@ -65,7 +65,7 @@ Click below to generate your session ID instantly.
 ## 🎉 **Join the T TEST Community**
 💬 Stay updated and get support by joining our WhatsApp community.
 
-<a href="https://github.com/Fred1e/lucky_md" target="_blank">
+<a href="https://github.com/next55x/TIMNASA-TMD1" target="_blank">
   <img src="https://img.shields.io/badge/JOIN OUR WHATSAPP CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
